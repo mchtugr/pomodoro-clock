@@ -1,0 +1,53 @@
+#app-wrapper {
+  background-color: #edf4f6;
+  width: 300px;
+  text-align: center;
+  margin: 20px auto;
+  border: 1px solid black;
+  border-radius: 50px;
+  padding: 20px;
+  box-shadow: 10px 10px 5px -2px rgba(238, 230, 230, 0.75);
+  -webkit-box-shadow: 10px 10px 5px -2px rgba(238, 230, 230, 0.75);
+  -moz-box-shadow: 10px 10px 5px -2px rgba(238, 230, 230, 0.75);
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.toolbar {
+  margin: 30px auto;
+  box-sizing: border-box;
+}
+
+#time-left {
+  font-size: 4rem;
+  background-color: #000;
+  color: #edf4f6;
+  border-radius: 5px;
+  text-shadow: 4px -1px 11px rgba(238, 221, 221, 0.6);
+}
+.length-label {
+  border: 1px solid #000;
+  border-radius: 20px;
+  background-color: #c5c9ca;
+  width: 90px;
+  padding: 15px;
+  margin: auto;
+  margin-bottom: 5px;
+}
+.length-label:hover {
+  box-shadow: 10px 10px 5px -2px rgba(238, 230, 230, 0.75);
+  -webkit-box-shadow: 10px 10px 5px -2px rgba(238, 230, 230, 0.75);
+  -moz-box-shadow: 10px 10px 5px -2px rgba(238, 230, 230, 0.75);
+}
+
+#timer-label {
+  margin-bottom: 10px;
+}
+
+#session-label,
+#break-label {
+  display: block;
+  margin-bottom: 10px;
+}
