@@ -1,4 +1,4 @@
-# You can preview the app [here](https://murtazaaylak.github.io/pomodoro-clock/).
+# You can preview the app [here](https://mchtugr.github.io/pomodoro-clock/).
 
 # Getting Started with Create React App
 
